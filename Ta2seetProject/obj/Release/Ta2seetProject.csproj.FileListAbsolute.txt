@@ -1,0 +1,17 @@
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.dll.config
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.dll
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.pdb
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.dll
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.pdb
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.dll.config
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.dll
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.pdb
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.csprojResolveAssemblyReference.cache
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.dll
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.pdb
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Common.Logging.Core.dll
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Common.Logging.dll
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Common.Logging.pdb
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Common.Logging.xml
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Common.Logging.Core.pdb
+D:\Temp Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Common.Logging.Core.xml

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://moussa-store.somee.com/www.moussa-store.somee.com/moussaStore/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".gitignore">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include=".idea/misc.xml">
+      <publishTime>11/10/2018 19:40:28</publishTime>
+    </File>
+    <File Include=".idea/modules.xml">
+      <publishTime>11/10/2018 19:40:28</publishTime>
+    </File>
+    <File Include=".idea/Site.iml">
+      <publishTime>11/10/2018 19:40:28</publishTime>
+    </File>
+    <File Include=".idea/workspace.xml">
+      <publishTime>12/07/2018 16:50:40</publishTime>
+    </File>
+    <File Include=".travis.yml">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="adminPanel.html">
+      <publishTime>02/23/2019 19:57:51</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.Core.dll">
+      <publishTime>11/14/2015 13:35:30</publishTime>
+    </File>
+    <File Include="bin/Common.Logging.dll">
+      <publishTime>11/14/2015 13:35:30</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 17:44:14</publishTime>
+    </File>
+    <File Include="bin/Ta2seetProject.dll">
+      <publishTime>02/23/2019 20:02:46</publishTime>
+    </File>
+    <File Include="css/adminPanel.css">
+      <publishTime>02/23/2019 19:56:17</publishTime>
+    </File>
+    <File Include="css/index.css">
+      <publishTime>02/23/2019 19:57:42</publishTime>
+    </File>
+    <File Include="css/user.css">
+      <publishTime>02/23/2019 19:57:37</publishTime>
+    </File>
+    <File Include="gulpfile.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="img/logo.jpg">
+      <publishTime>12/24/2018 15:22:07</publishTime>
+    </File>
+    <File Include="img/money.png">
+      <publishTime>12/10/2018 17:53:40</publishTime>
+    </File>
+    <File Include="img/MoneyGot.png">
+      <publishTime>12/10/2018 20:51:58</publishTime>
+    </File>
+    <File Include="img/moneyHead.png">
+      <publishTime>01/08/2019 21:59:25</publishTime>
+    </File>
+    <File Include="img/moneyToGet.png">
+      <publishTime>12/10/2018 20:54:02</publishTime>
+    </File>
+    <File Include="img/people.png">
+      <publishTime>12/10/2018 18:09:27</publishTime>
+    </File>
+    <File Include="img/Preloader_1.gif">
+      <publishTime>08/15/2014 16:40:08</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>02/23/2019 19:58:06</publishTime>
+    </File>
+    <File Include="js/adminAJAXFunctions.js">
+      <publishTime>02/23/2019 20:17:17</publishTime>
+    </File>
+    <File Include="js/adminPanel.js">
+      <publishTime>02/23/2019 20:11:01</publishTime>
+    </File>
+    <File Include="js/index.js">
+      <publishTime>02/23/2019 20:11:06</publishTime>
+    </File>
+    <File Include="js/user.js">
+      <publishTime>02/23/2019 20:11:15</publishTime>
+    </File>
+    <File Include="LICENSE">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="package-lock.json">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="package.json">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/08/2019 20:23:02</publishTime>
+    </File>
+    <File Include="README.md">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="Ta2seetService.asmx">
+      <publishTime>12/30/2018 20:13:15</publishTime>
+    </File>
+    <File Include="user.html">
+      <publishTime>02/23/2019 19:58:00</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>12/10/2018 23:14:35</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/jquery-ui.min.css">
+      <publishTime>09/14/2016 17:34:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery-ui.js">
+      <publishTime>09/14/2016 17:34:06</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.min.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.min.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.min.js">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.min.map">
+      <publishTime>07/10/2018 05:59:50</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.validate.min.js">
+      <publishTime>07/29/2017 07:20:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/09/2019 15:25:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

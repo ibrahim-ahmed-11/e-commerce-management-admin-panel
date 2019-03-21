@@ -1,0 +1,266 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Moussa-Store</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="vendor/bootstrap/css/jquery-ui.min.css" rel="stylesheet">
+
+        <!-- Custom styles for this template -->
+        <link href="css/adminPanel.css" rel="stylesheet">
+
+    </head>
+
+    <body>
+
+        <div class="se-pre-con"></div>
+        
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <div class="container">
+                <a style="text-align: center" class="navbar-brand col-3" href="#">Moussa-Store</a>
+                <div class="col-9" id="loggedAsArea">
+                    <button id="loggedAsButtonViewer" type="button" class="btn btn-outline-light" disabled></button>
+                    <button type="button" onclick="logout();" class="btn btn-outline-light">تسجيل الخروج</button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Page Content -->
+        <div style="width:85%;height: calc(100% - 60px);padding-right: 100px;padding-left: 100px;margin: 0px 100px 0px 100px; padding-bottom: 30px;">
+
+            <div class="row">
+
+                <div style="text-align: center" class="col-lg-2">
+                    <img style="text-align: center" src="img/logo.jpg" alt="logo" class="img-fluid my-4" width="210" height="40" />
+                    <div class="list-group" style="text-align:center">
+                        <a class="list-group-item"></a>
+                    
+                        <a id="addCustomer" href="#" class="list-group-item">إضافة عميل</a>
+                        <a id="searchCustomer" href="#" class="list-group-item">البحث عن عميل</a>
+                        <a id="addNewSale" href="#" class="list-group-item">إضافة عملية بيع جديدة</a>
+                        <a id="viewLoans" href="#" class="list-group-item">الاقساط</a>
+                        <a id="viewInquiry" href="#" class="list-group-item">الاستعلام</a>
+                        <a id="viewMoneyHead" href="#" class="list-group-item">رأس المال</a>
+                        <a id="viewMonthRate" href="#" class="list-group-item">النسبة المئوية للتحصيل</a>
+                        <a id="latencyNotes" href="#" class="list-group-item">التأخيرات</a>
+                        <a id="addAdmin" href="#" class="list-group-item">إضافة أدمن</a>
+                        <a id="viewAdmins" href="#" class="list-group-item">عرض كافة الأدمنز</a>
+                    
+                        <a class="list-group-item"></a>
+                    </div>
+                </div>
+                <!-- /.col-lg-3 -->
+
+                <div class="col-lg-10" id="mainContent">
+
+
+
+
+
+                
+
+
+
+
+
+
+                </div>
+                <!-- /.col-lg-9 -->
+
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+
+        <!-- show customer details Modal -->
+
+        <div id="customerModal" class="modal fade" role="dialog" style="margin-top: 3%">
+
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" id="customerModalClose">&times;</button>
+                        <h4 class="modal-title" style="text-align: center">بيانات العميل</h4>
+                    </div>
+
+                    <div id="customer-modal-body">
+
+                    </div>
+
+                    <div id="customerEditModalFooter" class="modal-footer">
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- show sales edit Modal -->
+
+        <div id="saleEditModal" class="modal fade" role="dialog" style="margin-top: 3%">
+
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title" id="saleEditModalHeader" style="text-align: center">تعديل البيانات</h4>
+                    </div>
+
+                    <div id="sale-edit-modal-body" style="margin: 0 auto;">
+
+
+
+                    </div>
+
+                    <div class="modal-footer" id="saleEditModalFooter">
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- show new sales Modal -->
+
+        <div id="newSaleModal" class="modal fade" role="dialog" style="margin-top: 3%">
+
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title" id="newSaleModalHeader" style="text-align: center">تأكيد بيانات عملية البيع</h4>
+                    </div>
+
+                    <div id="new-sale-modal-body">
+
+                        <form style="padding: 20px;">
+                            <div class="form-group" style="text-align: right">
+                                <label>رقم العميل :</label>
+                                <input type="text" class="form-control" id="InputNewSaleCustomerIDModal" readonly>
+                            </div>
+                            <div class="form-group" style="text-align: right">
+                                <label>اسم المنتج :</label>
+                                <input type="text" class="form-control" id="InputNewSaleProductNameModal" readonly>
+                            </div>
+                            <div class="form-group col-lg-6" style="text-align: right; float: right">
+                                <label>السعر :</label>
+                                <input type="number" class="form-control" id="InputNewSalePriceModal" readonly>
+                            </div>
+                            <div class="form-group col-lg-6" style="text-align: right; float: left">
+                                <label>المبلغ المدفوع مقدماً :</label>
+                                <input type="number" class="form-control" id="InputNewSalePaidModal" readonly>
+                            </div>
+                            <div class="form-group col-lg-6" style="text-align: right; float: right">
+                                <label>التاريخ :</label>
+                                <input type="text" class="form-control" id="InputNewSaleDateModal" readonly>
+                            </div>
+                            <div class="form-group col-lg-6" style="text-align: right; float: left">
+                                <label>يوم الدفع :</label>
+                                <input type="number" class="form-control" id="InputNewSalePaymentDateModal" readonly>
+                            </div>
+                            <div class="form-group" style="text-align: right; padding-top: 180px;">
+                                <label>نوع السداد :</label>
+                                <input type="text" class="form-control" id="InputPaymentTypeModal" readonly>
+                            </div>
+                            <div class="form-group" style="text-align: right">
+                                <label>المبلغ المدفوع شهرياً :</label>
+                                <input type="text" class="form-control" id="InputNewSaleMonthlyPaidModal" readonly>
+                            </div>
+                            <div class="form-group" style="text-align: right">
+                                <label>ملاحظات :</label>
+                                <input type="text" class="form-control" id="InputNewSaleNotesModal" readonly>
+                            </div>
+
+                        </form>
+
+                    </div>
+
+                    <div class="modal-footer" id="newSaleModalFooter">
+                        <button type="button" style="margin: 0.5em" class="btn btn-outline-danger" data-dismiss="modal"> إلغاء</button>
+                        <button type="button" style="margin: 0.5em" onclick="confirmNewSale()" class="btn btn-outline-success"> إضافةعملية البيع</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- show admin edit Modal -->
+
+        <div id="adminEditModal" class="modal fade" role="dialog" style="margin-top: 3%">
+
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title" style="text-align: center">تعديل بيانات الأدمن</h4>
+                    </div>
+
+                    <div id="admin-edit-modal-body">
+
+
+
+                    </div>
+
+                    <div class="modal-footer" id="adminEditModalFooter">
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Show Monthly MoneHead Modal -->
+        <div id="monthlyMoneyHeadModal" class="modal fade" role="dialog" style="margin-top: 3%">
+
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header" style="text-align: center">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title" id="monthlyMoneyHeadModalHeader" style="text-align: center; margin:0 auto; width:60%">رأس المال الشهرى لآخر 5 شهور</h4>
+                    </div>
+
+                    <div id="monthly-MoneyHead-modal-body" style="margin: 0;">
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class=" bg-dark modal-footer" style="position:fixed;">
+            <div class="container">
+                <p class="m-0 text-center text-white">Copyright &copy; 2018 Designed by <a
+                        href="https://linkedin.com/in/ibrahim-ahmed-96196366/" style="color:#80bfff">Ibrahim Ahmed</a></p>
+            </div>
+            <!-- /.container -->
+        </footer>
+
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/jquery/jquery-ui.js"></script>
+        <script src="vendor/jquery/jquery.validate.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="js/adminPanel.js"></script>
+        <script src="js/adminAJAXFunctions.js"></script>
+
+
+    </body>
+
+
+
+</html>

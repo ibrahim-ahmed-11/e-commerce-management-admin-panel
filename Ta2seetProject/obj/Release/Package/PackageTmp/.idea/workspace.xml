@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3d6c107-460b-4d39-8de3-0d57748a67a9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1610324650">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+          <entry key="css" value="17" />
+          <entry key="html" value="36" />
+          <entry key="js" value="52" />
+          <entry key="sql" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSFile" value="3" />
+          <entry key="CSS" value="17" />
+          <entry key="HTML" value="36" />
+          <entry key="JavaScript" value="52" />
+          <entry key="SQL" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="631" />
+          <entry key="html" value="3826" />
+          <entry key="js" value="20438" />
+          <entry key="sql" value="181" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="632" />
+          <entry key="HTML" value="3827" />
+          <entry key="JavaScript" value="20436" />
+          <entry key="SQL" value="181" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/adminPanel.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="630">
+                  <caret line="770" column="35" lean-forward="true" selection-start-line="770" selection-start-column="35" selection-end-line="770" selection-end-column="35" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <element signature="n#!!block;n#openAddAdmin#0" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openAddCustomer#0" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openViewCustomers#0" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#showCustomerModal#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#showCustomerEditModal#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openViewAdmins#0" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#showAdminEditModal#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openSearchCustomer#0" />
+                    <element signature="n#style#0;n#h5#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h5#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h5#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openViewInquiry#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openViewMonthRate#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#openViewMoneyHead#0" />
+                    <element signature="e#23674#24151#0" />
+                    <element signature="e#23615#23732#0" />
+                    <element signature="n#!!block;n#openViewLoans#0" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#label#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#getCustomerLoan#0" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#getCustomerBills#0" />
+                    <element signature="n#!!block;n#getBillsDetails#0" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#getBillDetails#0" />
+                    <element signature="n#!!block;n#openViewSales#0" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#showSaleEditModal#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#showSaleDetailsModal#0" />
+                    <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/adminAJAXFunctions.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1913">
+                  <caret line="926" lean-forward="true" selection-start-line="926" selection-end-line="926" />
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                    <element signature="n#!!block;n#isEmpty#0" />
+                    <element signature="n#!!block;n#logout#0" />
+                    <element signature="n#!!block;n#validateAddNewAdmin#0" />
+                    <element signature="n#!!block;n#addNewAdmin#0" />
+                    <element signature="n#!!block;n#validateAddNewCustomer#0" />
+                    <element signature="n#!!block;n#addNewCustomer#0" />
+                    <element signature="n#!!block;n#getInsertedCustomerKey#0" />
+                    <element signature="n#!!block;n#getAllCustomersData#0" />
+                    <element signature="n#!!block;n#validateEditCustomer#0" />
+                    <element signature="n#!!block;n#editCustomerData#0" />
+                    <element signature="n#!!block;n#deleteCustomer#0" />
+                    <element signature="n#!!block;n#getAllAdminsData#0" />
+                    <element signature="n#!!block;n#getOneAdminData#0" />
+                    <element signature="n#!!block;n#editAdmin#0" />
+                    <element signature="n#!!block;n#deleteAdmin#0" />
+                    <element signature="n#!!block;n#validateCustomerSearchArea#0" />
+                    <element signature="n#!!block;n#searchCustomer#0" />
+                    <element signature="e#17080#19783#0" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="e#19807#21502#0" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="e#21526#24224#0" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+                    <element signature="n#!!block;n#getOneCustomerData#0" />
+                    <element signature="n#!!block;n#getCustomerName#0" />
+                    <element signature="n#!!block;n#validateNewSale#0" />
+                    <element signature="n#!!block;n#addNewSale#0" />
+                    <element signature="n#!!block;n#getAllSales#0" />
+                    <element signature="n#!!block;n#addCashToPaid#0" />
+                    <element signature="n#!!block;n#removeCashFromPaid#0" />
+                    <element signature="n#!!block;n#deleteSale#0" />
+                    <element signature="n#!!block;n#getSaleDetails#0" />
+                    <element signature="n#!!block;n#getBoughtByCustomer#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;a</find>
+      <find>هاتف</find>
+      <find>mai</find>
+      <find>mymo</find>
+      <find>addnew</find>
+      <find>openvi</find>
+      <find>viewadm</find>
+      <find>viewc</find>
+      <find>viewcus</find>
+      <find>حذف العم</find>
+      <find>addadm</find>
+      <find>قسطلى</find>
+      <find>viewsal</find>
+      <find>customere</find>
+      <find>confirm</find>
+      <find>insert into Admins (name, username, [password]) values ('','','');</find>
+      <find>executen</find>
+      <find>servic</find>
+      <find>href</find>
+      <find>queryString</find>
+      <find>getCustomerName</find>
+      <find>newSaleModal</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/shop-item.css" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$USER_HOME$/Desktop/sql queries.sql" />
+        <option value="$PROJECT_DIR$/css/adminPanel.css" />
+        <option value="$PROJECT_DIR$/user.html" />
+        <option value="$PROJECT_DIR$/js/user.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/js/adminPanel.js" />
+        <option value="$PROJECT_DIR$/adminPanel.html" />
+        <option value="$PROJECT_DIR$/js/adminAJAXFunctions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Site" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3d6c107-460b-4d39-8de3-0d57748a67a9" name="Default Changelist" comment="" />
+      <created>1541871628735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541871628735</updated>
+      <workItem from="1541871630366" duration="23463000" />
+      <workItem from="1542016583144" duration="130000" />
+      <workItem from="1542016759034" duration="598000" />
+      <workItem from="1542018741688" duration="97589000" />
+      <workItem from="1543397836344" duration="15491000" />
+      <workItem from="1543486911352" duration="3625000" />
+      <workItem from="1543781914539" duration="36585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="177481000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14330874" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/shop-item.css" />
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/js/doctor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15263" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/user.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/js/contactUs.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/jsnUserVerifyLoginMail.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/js/patient.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/js/emergencyTips.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_College/4 7asbat/Mashroo3/Web/SHC v4.0/SmartHealthConsultant/SmartHealthConsultant/SHC.asmx.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="831" column="57" selection-start-line="831" selection-start-column="57" selection-end-line="831" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/adminPanel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sql queries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="98" column="26" lean-forward="true" selection-start-line="98" selection-end-line="98" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="115" selection-start-line="42" selection-start-column="115" selection-end-line="42" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="5" column="6061" selection-start-line="5" selection-start-column="6061" selection-end-line="5" selection-end-column="6061" />
+          <folding>
+            <element signature="e#58784#58984#2" expanded="true" />
+            <element signature="e#59192#59341#2" expanded="true" />
+            <element signature="e#59843#59989#2" expanded="true" />
+            <element signature="e#60290#60456#1" expanded="true" />
+            <element signature="e#71108#71351#2" expanded="true" />
+            <element signature="e#72218#72467#2" expanded="true" />
+            <element signature="e#99230#99420#2" expanded="true" />
+            <element signature="e#99466#99656#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="543" column="1" selection-start-line="543" selection-start-column="1" selection-end-line="543" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminPanel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="181" column="79" lean-forward="true" selection-start-line="181" selection-start-column="79" selection-end-line="181" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#7;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#8;n#form#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#2;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/adminAJAXFunctions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1913">
+          <caret line="926" lean-forward="true" selection-start-line="926" selection-end-line="926" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#isEmpty#0" />
+            <element signature="n#!!block;n#logout#0" />
+            <element signature="n#!!block;n#validateAddNewAdmin#0" />
+            <element signature="n#!!block;n#addNewAdmin#0" />
+            <element signature="n#!!block;n#validateAddNewCustomer#0" />
+            <element signature="n#!!block;n#addNewCustomer#0" />
+            <element signature="n#!!block;n#getInsertedCustomerKey#0" />
+            <element signature="n#!!block;n#getAllCustomersData#0" />
+            <element signature="n#!!block;n#validateEditCustomer#0" />
+            <element signature="n#!!block;n#editCustomerData#0" />
+            <element signature="n#!!block;n#deleteCustomer#0" />
+            <element signature="n#!!block;n#getAllAdminsData#0" />
+            <element signature="n#!!block;n#getOneAdminData#0" />
+            <element signature="n#!!block;n#editAdmin#0" />
+            <element signature="n#!!block;n#deleteAdmin#0" />
+            <element signature="n#!!block;n#validateCustomerSearchArea#0" />
+            <element signature="n#!!block;n#searchCustomer#0" />
+            <element signature="e#17080#19783#0" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#19807#21502#0" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#21526#24224#0" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#getOneCustomerData#0" />
+            <element signature="n#!!block;n#getCustomerName#0" />
+            <element signature="n#!!block;n#validateNewSale#0" />
+            <element signature="n#!!block;n#addNewSale#0" />
+            <element signature="n#!!block;n#getAllSales#0" />
+            <element signature="n#!!block;n#addCashToPaid#0" />
+            <element signature="n#!!block;n#removeCashFromPaid#0" />
+            <element signature="n#!!block;n#deleteSale#0" />
+            <element signature="n#!!block;n#getSaleDetails#0" />
+            <element signature="n#!!block;n#getBoughtByCustomer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/adminPanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="770" column="35" lean-forward="true" selection-start-line="770" selection-start-column="35" selection-end-line="770" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#openAddAdmin#0" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openAddCustomer#0" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openViewCustomers#0" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#showCustomerModal#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#showCustomerEditModal#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openViewAdmins#0" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#showAdminEditModal#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openSearchCustomer#0" />
+            <element signature="n#style#0;n#h5#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openViewInquiry#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openViewMonthRate#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#openViewMoneyHead#0" />
+            <element signature="e#23674#24151#0" />
+            <element signature="e#23615#23732#0" />
+            <element signature="n#!!block;n#openViewLoans#0" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#getCustomerLoan#0" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#getCustomerBills#0" />
+            <element signature="n#!!block;n#getBillsDetails#0" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#getBillDetails#0" />
+            <element signature="n#!!block;n#openViewSales#0" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#showSaleEditModal#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#showSaleDetailsModal#0" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tbody#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

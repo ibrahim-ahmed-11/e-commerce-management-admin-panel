@@ -1,0 +1,5 @@
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.dll.config
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.dll
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\bin\Ta2seetProject.pdb
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.dll
+D:\Study\My Business Work\Ta2seet Site\Project\Ta2seetProject\Ta2seetProject\obj\Release\Ta2seetProject.pdb
